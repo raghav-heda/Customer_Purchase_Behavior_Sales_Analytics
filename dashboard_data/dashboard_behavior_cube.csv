@@ -1,0 +1,226 @@
+year_filter,country_filter,customer_type,customers,revenue,orders
+All,All,One-time,1623,560272.562,1623
+All,All,Repeat,4255,16814531.706,35346
+All,Australia,One-time,5,1133.4,5
+All,Australia,Repeat,10,168150.06,90
+All,Austria,One-time,3,2687.15,3
+All,Austria,Repeat,10,20925.86,42
+All,Bahrain,Repeat,2,1354.37,4
+All,Belgium,One-time,7,3822.06,7
+All,Belgium,Repeat,22,61565.76,142
+All,Brazil,One-time,2,1411.87,2
+All,Canada,One-time,3,726.3399999999999,3
+All,Canada,Repeat,2,4156.7,5
+All,Channel Islands,One-time,1,919.7,1
+All,Channel Islands,Repeat,12,43703.63,54
+All,Cyprus,One-time,3,2018.33,3
+All,Cyprus,Repeat,8,22831.62,34
+All,Czech Republic,Repeat,1,826.74,2
+All,Denmark,One-time,3,1359.1000000000001,3
+All,Denmark,Repeat,9,67221.59,40
+All,EIRE,One-time,2,308.7,2
+All,EIRE,Repeat,3,616261.84,565
+All,European Community,Repeat,1,1300.25,4
+All,Finland,One-time,4,2537.76,4
+All,Finland,Repeat,10,27387.78,53
+All,France,One-time,28,8790.27,28
+All,France,Repeat,67,339978.69,586
+All,Germany,One-time,23,14310.931,23
+All,Germany,Repeat,84,410708.77999999997,766
+All,Greece,One-time,2,3765.01,2
+All,Greece,Repeat,3,15331.18,16
+All,Iceland,Repeat,1,4921.53,8
+All,Israel,One-time,2,6122.2300000000005,2
+All,Israel,Repeat,2,4293.01,5
+All,Italy,One-time,5,2958.77,5
+All,Italy,Repeat,12,29149.4,60
+All,Japan,One-time,3,561.0699999999999,3
+All,Japan,Repeat,7,42462.84,30
+All,Korea,One-time,2,1118.51,2
+All,Lebanon,One-time,1,1693.88,1
+All,Lithuania,Repeat,1,4892.68,6
+All,Malta,Repeat,2,8099.09,9
+All,Netherlands,One-time,6,2986.21,6
+All,Netherlands,Repeat,16,551051.88,222
+All,Nigeria,Repeat,1,140.39,2
+All,Norway,One-time,6,7945.24,6
+All,Norway,Repeat,7,48377.26,39
+All,Poland,One-time,2,401.8,2
+All,Poland,Repeat,4,10252.49,26
+All,Portugal,One-time,6,1902.72,6
+All,Portugal,Repeat,18,53652.06,87
+All,RSA,One-time,2,1933.74,2
+All,Saudi Arabia,One-time,1,145.92,1
+All,Singapore,Repeat,1,25317.06,11
+All,Spain,One-time,15,6799.85,15
+All,Spain,Repeat,26,101532.64,139
+All,Sweden,One-time,10,5214.45,10
+All,Sweden,Repeat,9,86301.37,94
+All,Switzerland,One-time,1,1635.66,1
+All,Switzerland,Repeat,21,98426.28,89
+All,Thailand,Repeat,1,3070.54,2
+All,USA,One-time,4,2123.27,4
+All,USA,Repeat,5,6243.59,16
+All,United Arab Emirates,One-time,2,1719.22,2
+All,United Arab Emirates,Repeat,2,7483.469999999999,9
+All,United Kingdom,One-time,1474,473639.311,1474
+All,United Kingdom,Repeat,3876,13915595.606,32067
+All,Unspecified,One-time,2,512.88,2
+All,Unspecified,Repeat,4,8094.469999999999,14
+All,West Indies,One-time,1,536.41,1
+2009,All,One-time,669,251871.39,669
+2009,All,Repeat,286,431632.62,843
+2010,All,One-time,1418,505118.374,1418
+2010,All,Repeat,2813,7869377.72,16907
+2011,All,One-time,1502,618782.3910000001,1502
+2011,All,Repeat,2717,7698021.773,15630
+2009,Australia,One-time,2,271.1,2
+2009,Austria,One-time,2,1998.34,2
+2009,Belgium,One-time,1,130.0,1
+2009,Belgium,Repeat,1,317.6,2
+2009,Channel Islands,One-time,1,989.18,1
+2009,Cyprus,One-time,2,2702.79,2
+2009,Cyprus,Repeat,1,838.89,2
+2009,Denmark,One-time,2,1437.66,2
+2009,EIRE,Repeat,2,18170.46,16
+2009,Finland,One-time,1,549.08,1
+2009,France,One-time,8,4215.38,8
+2009,France,Repeat,2,2306.31,5
+2009,Germany,One-time,7,4702.4800000000005,7
+2009,Germany,Repeat,3,5127.789999999999,11
+2009,Greece,One-time,1,610.95,1
+2009,Italy,One-time,1,422.35,1
+2009,Netherlands,One-time,1,508.26,1
+2009,Netherlands,Repeat,1,14696.47,5
+2009,Norway,One-time,1,485.31,1
+2009,Poland,One-time,1,371.82,1
+2009,Portugal,One-time,2,2821.58,2
+2009,Spain,One-time,3,2801.12,3
+2009,Spain,Repeat,1,5149.06,2
+2009,Sweden,One-time,1,285.29999999999995,1
+2009,Switzerland,One-time,1,589.4,1
+2009,USA,One-time,1,141.0,1
+2009,United Arab Emirates,One-time,1,517.7,1
+2009,United Kingdom,One-time,629,225320.59,629
+2009,United Kingdom,Repeat,275,385026.04,800
+2010,Australia,One-time,8,1724.3899999999999,8
+2010,Australia,Repeat,7,29799.510000000002,31
+2010,Austria,One-time,1,290.69,1
+2010,Austria,Repeat,9,11402.5,26
+2010,Bahrain,One-time,2,805.97,2
+2010,Belgium,One-time,4,2931.07,4
+2010,Belgium,Repeat,13,22622.72,49
+2010,Brazil,One-time,1,268.27,1
+2010,Canada,Repeat,1,1216.66,2
+2010,Channel Islands,One-time,3,3601.26,3
+2010,Channel Islands,Repeat,8,19955.88,26
+2010,Cyprus,One-time,4,3081.5299999999997,4
+2010,Cyprus,Repeat,4,6310.96,14
+2010,Denmark,One-time,2,890.46,2
+2010,Denmark,Repeat,7,48578.73,22
+2010,EIRE,One-time,2,308.7,2
+2010,EIRE,Repeat,3,341642.8,304
+2010,Finland,One-time,2,702.32,2
+2010,Finland,Repeat,5,7020.860000000001,14
+2010,France,One-time,10,2844.67,10
+2010,France,Repeat,37,140066.6,223
+2010,Germany,One-time,23,13591.411,23
+2010,Germany,Repeat,46,188125.37,321
+2010,Greece,One-time,2,3361.95,2
+2010,Greece,Repeat,2,10362.77,10
+2010,Iceland,Repeat,1,1323.32,2
+2010,Israel,One-time,2,3199.4,2
+2010,Italy,One-time,4,2168.2200000000003,4
+2010,Italy,Repeat,8,12845.86,24
+2010,Japan,One-time,5,7558.91,5
+2010,Japan,Repeat,2,5753.699999999999,12
+2010,Korea,One-time,2,1118.51,2
+2010,Lithuania,Repeat,1,4892.68,6
+2010,Malta,Repeat,1,5373.5,4
+2010,Netherlands,One-time,8,3651.66,8
+2010,Netherlands,Repeat,14,258519.84,123
+2010,Nigeria,Repeat,1,140.39,2
+2010,Norway,One-time,1,1993.34,1
+2010,Norway,Repeat,3,21465.53,9
+2010,Poland,Repeat,2,3195.98,9
+2010,Portugal,One-time,7,3200.7799999999997,7
+2010,Portugal,Repeat,11,18596.55,33
+2010,RSA,One-time,1,931.43,1
+2010,Singapore,Repeat,1,4037.77,4
+2010,Spain,One-time,15,5658.72,15
+2010,Spain,Repeat,11,35008.76,48
+2010,Sweden,One-time,8,4649.69,8
+2010,Sweden,Repeat,7,52047.3,61
+2010,Switzerland,One-time,3,2360.76,3
+2010,Switzerland,Repeat,11,41972.75,37
+2010,Thailand,Repeat,1,3070.54,2
+2010,USA,One-time,1,132.8,1
+2010,USA,Repeat,4,4512.67,13
+2010,United Arab Emirates,One-time,1,1201.52,1
+2010,United Arab Emirates,Repeat,2,5581.1900000000005,6
+2010,United Kingdom,One-time,1297,434130.143,1297
+2010,United Kingdom,Repeat,2590,6556210.84,15460
+2010,Unspecified,One-time,2,512.88,2
+2010,Unspecified,Repeat,2,5433.7,6
+2010,West Indies,One-time,1,536.41,1
+2011,Australia,One-time,1,143.0,1
+2011,Australia,Repeat,8,137345.46,53
+2011,Austria,One-time,6,3960.7200000000003,6
+2011,Austria,Repeat,4,5960.76,10
+2011,Bahrain,One-time,2,548.4,2
+2011,Belgium,One-time,7,2466.33,7
+2011,Belgium,Repeat,18,36920.1,86
+2011,Brazil,One-time,1,1143.6,1
+2011,Canada,One-time,3,726.3399999999999,3
+2011,Canada,Repeat,1,2940.04,3
+2011,Channel Islands,One-time,2,3216.71,2
+2011,Channel Islands,Repeat,6,16860.3,23
+2011,Cyprus,One-time,3,1195.1000000000001,3
+2011,Cyprus,Repeat,5,10720.68,12
+2011,Czech Republic,Repeat,1,826.74,2
+2011,Denmark,One-time,3,1488.0,3
+2011,Denmark,Repeat,6,16185.84,14
+2011,EIRE,Repeat,3,256448.58000000002,245
+2011,European Community,Repeat,1,1300.25,4
+2011,Finland,One-time,5,3329.92,5
+2011,Finland,Repeat,7,18323.36,35
+2011,France,One-time,25,8282.51,25
+2011,France,Repeat,59,191053.49,343
+2011,Germany,One-time,27,14566.31,27
+2011,Germany,Repeat,66,198906.35,400
+2011,Greece,One-time,3,3729.5399999999995,3
+2011,Greece,Repeat,1,1030.98,2
+2011,Iceland,Repeat,1,3598.21,6
+2011,Israel,One-time,1,4873.81,1
+2011,Israel,Repeat,2,2342.0299999999997,4
+2011,Italy,One-time,6,4795.65,6
+2011,Italy,Repeat,6,11876.09,30
+2011,Japan,One-time,5,1884.7200000000003,5
+2011,Japan,Repeat,3,27826.579999999998,11
+2011,Lebanon,One-time,1,1693.88,1
+2011,Malta,One-time,1,905.5,1
+2011,Malta,Repeat,1,1820.09,4
+2011,Netherlands,One-time,3,844.3500000000001,3
+2011,Netherlands,Repeat,5,275817.51,88
+2011,Norway,One-time,4,5466.59,4
+2011,Norway,Repeat,6,26911.73,30
+2011,Poland,One-time,2,401.8,2
+2011,Poland,Repeat,4,6684.69,16
+2011,Portugal,One-time,6,3403.6800000000003,6
+2011,Portugal,Repeat,11,27532.190000000002,45
+2011,RSA,One-time,1,1002.3100000000001,1
+2011,Saudi Arabia,One-time,1,145.92,1
+2011,Singapore,Repeat,1,21279.29,7
+2011,Spain,One-time,10,7595.63,10
+2011,Spain,Repeat,19,52119.2,76
+2011,Sweden,One-time,4,1687.0500000000002,4
+2011,Sweden,Repeat,4,32846.48,30
+2011,Switzerland,One-time,7,14904.81,7
+2011,Switzerland,Repeat,14,40234.22,42
+2011,USA,One-time,3,2233.42,3
+2011,USA,Repeat,1,1346.97,2
+2011,United Arab Emirates,One-time,1,889.24,1
+2011,United Arab Emirates,Repeat,1,1013.04,2
+2011,United Kingdom,One-time,1363,523821.67100000003,1363
+2011,United Kingdom,Repeat,2450,6264725.633,13992
+2011,Unspecified,Repeat,4,2660.77,8

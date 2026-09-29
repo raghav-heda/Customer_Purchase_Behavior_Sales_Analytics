@@ -1,0 +1,6 @@
+frequency_band,customers,customer_share_pct,min_orders,max_orders
+1 order,1623,27.61,1,1
+2-3 orders,1608,27.36,2,3
+4-6 orders,1126,19.16,4,6
+7-12 orders,872,14.83,7,12
+13+ orders,649,11.04,13,398

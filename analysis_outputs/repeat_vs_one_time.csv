@@ -1,0 +1,3 @@
+customer_type,customers,orders,revenue,quantity,customer_share_pct,known_customer_revenue_share_pct,aov
+Repeat,4255,35346,16814531.71,10096145,72.39,96.78,475.71
+One-time,1623,1623,560272.56,417807,27.61,3.22,345.21

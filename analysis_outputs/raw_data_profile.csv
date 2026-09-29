@@ -1,0 +1,2 @@
+raw_records,raw_orders,raw_customers,missing_customer_id_rows,cancelled_rows,nonpositive_quantity_rows,nonpositive_price_rows,missing_description_rows,first_transaction,last_transaction
+1067371,53628,5942,243007,19494,22950,6207,4382,2009-12-01 07:45:00,2011-12-09 12:50:00

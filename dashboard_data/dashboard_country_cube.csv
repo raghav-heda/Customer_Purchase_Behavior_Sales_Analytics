@@ -1,0 +1,383 @@
+year_filter,customer_type_filter,rank,country,revenue,quantity,orders
+All,All,1,United Kingdom,17410196.117,9187753,36535
+All,All,2,EIRE,658767.31,336329,626
+All,All,3,Netherlands,554038.09,383879,228
+All,All,4,Germany,425019.711,225154,789
+All,All,5,France,350456.09,271901,622
+All,All,6,Australia,169283.46,103759,95
+All,All,7,Spain,108332.49,50307,154
+All,All,8,Switzerland,100685.59,52762,93
+All,All,9,Sweden,91869.82,88633,105
+All,All,10,Denmark,68580.69,237471,43
+All,All,11,Belgium,65387.82,34768,149
+All,All,12,Norway,56322.5,23621,45
+All,All,13,Portugal,56283.53,27719,95
+All,All,14,Channel Islands,44623.33,21396,55
+All,All,15,Japan,43023.909999999996,31643,33
+All,All,16,Italy,32108.170000000002,15312,65
+All,All,17,Finland,29925.54,14375,57
+All,All,18,Singapore,25317.06,6994,11
+All,All,19,Cyprus,24849.95,10950,37
+All,All,20,Hong Kong,23685.52,7021,15
+All,All,21,Austria,23613.010000000002,11578,45
+All,All,22,Greece,19096.19,7724,18
+All,All,23,Israel,11328.81,5538,10
+All,All,24,United Arab Emirates,11097.63,7321,16
+All,All,25,Unspecified,10927.16,6729,24
+All,All,26,Poland,10654.289999999999,5688,28
+All,All,27,USA,8366.86,5264,20
+All,All,28,Malta,8099.09,2519,9
+All,All,29,Iceland,4921.53,2967,8
+All,All,30,Lithuania,4892.68,2306,6
+All,All,31,Canada,4883.04,3657,8
+All,All,32,RSA,4804.32,1970,4
+All,All,33,Bahrain,3109.79,1339,10
+All,All,34,Thailand,3070.54,2552,2
+All,All,35,Lebanon,1905.58,458,2
+All,All,36,Brazil,1411.87,545,2
+All,All,37,European Community,1300.25,499,4
+All,All,38,Bermuda,1253.1399999999999,2798,1
+All,All,39,Korea,1118.51,700,2
+All,All,40,Czech Republic,826.74,671,2
+All,All,41,West Indies,536.41,395,1
+All,All,42,Saudi Arabia,145.92,80,1
+All,All,43,Nigeria,140.39,103,2
+All,One-time,1,United Kingdom,473639.311,368988,1474
+All,One-time,2,Germany,14213.881,8029,22
+All,One-time,3,Norway,7945.24,4419,6
+All,One-time,4,France,7870.29,4356,27
+All,One-time,5,Spain,6558.5,3559,14
+All,One-time,6,Israel,6122.2300000000005,3398,2
+All,One-time,7,Sweden,5214.45,2820,10
+All,One-time,8,Greece,3765.01,1989,2
+All,One-time,9,Belgium,3440.98,1371,6
+All,One-time,10,Netherlands,2986.21,1914,6
+All,One-time,11,Italy,2958.77,1510,5
+All,One-time,12,Finland,2537.76,1304,4
+All,One-time,13,Austria,2249.17,1402,2
+All,One-time,14,USA,2123.27,1554,4
+All,One-time,15,Cyprus,2018.33,971,3
+All,One-time,16,RSA,1933.74,942,2
+All,One-time,17,Portugal,1902.72,884,6
+All,One-time,18,United Arab Emirates,1719.22,1879,2
+All,One-time,19,Lebanon,1693.88,386,1
+All,One-time,20,Switzerland,1635.66,1394,1
+All,One-time,21,Brazil,1411.87,545,2
+All,One-time,22,Australia,1133.4,568,5
+All,One-time,23,Korea,1118.51,700,2
+All,One-time,24,Channel Islands,919.7,645,1
+All,One-time,25,Canada,726.3399999999999,644,3
+All,One-time,26,Japan,561.07,445,3
+All,One-time,27,West Indies,536.41,395,1
+All,One-time,28,Unspecified,512.88,356,2
+All,One-time,29,Poland,401.8,186,2
+All,One-time,30,Denmark,168.9,173,1
+All,One-time,31,Saudi Arabia,145.92,80,1
+All,One-time,32,EIRE,107.14,1,1
+All,Repeat,1,United Kingdom,13915595.606,8163423,32067
+All,Repeat,2,EIRE,616463.4,318020,566
+All,Repeat,3,Netherlands,551051.88,381965,222
+All,Repeat,4,Germany,410805.83,217125,767
+All,Repeat,5,France,340898.67,265932,587
+All,Repeat,6,Australia,168150.06,103191,90
+All,Repeat,7,Spain,101773.99,46748,140
+All,Repeat,8,Switzerland,98426.28,50833,89
+All,Repeat,9,Sweden,86301.37,85675,94
+All,Repeat,10,Denmark,68411.79,237298,42
+All,Repeat,11,Belgium,61946.840000000004,33397,143
+All,Repeat,12,Portugal,53652.06,26539,87
+All,Repeat,13,Norway,48377.26,19202,39
+All,Repeat,14,Channel Islands,43703.63,20751,54
+All,Repeat,15,Japan,42462.84,31198,30
+All,Repeat,16,Italy,29149.4,13802,60
+All,Repeat,17,Finland,27387.78,13071,53
+All,Repeat,18,Singapore,25317.06,6994,11
+All,Repeat,19,Cyprus,22831.62,9979,34
+All,Repeat,20,Austria,21363.84,10176,43
+All,Repeat,21,Greece,15331.18,5735,16
+All,Repeat,22,Poland,10252.49,5502,26
+All,Repeat,23,Malta,8099.09,2519,9
+All,Repeat,24,Unspecified,8094.47,4757,14
+All,Repeat,25,United Arab Emirates,7483.47,3960,9
+All,Repeat,26,USA,6243.59,3710,16
+All,Repeat,27,Iceland,4921.53,2967,8
+All,Repeat,28,Lithuania,4892.68,2306,6
+All,Repeat,29,Israel,4293.01,1777,5
+All,Repeat,30,Canada,4156.7,3013,5
+All,Repeat,31,Thailand,3070.54,2552,2
+All,Repeat,32,Bahrain,1354.3700000000001,755,4
+All,Repeat,33,European Community,1300.25,499,4
+All,Repeat,34,Czech Republic,826.74,671,2
+All,Repeat,35,Nigeria,140.39,103,2
+All,Unknown,1,United Kingdom,3020961.2,655342,2994
+All,Unknown,2,EIRE,42196.77,18308,59
+All,Unknown,3,Hong Kong,23685.52,7021,15
+All,Unknown,4,RSA,2870.58,1028,2
+All,Unknown,5,Unspecified,2319.81,1616,8
+All,Unknown,6,United Arab Emirates,1894.9399999999998,1482,5
+All,Unknown,7,Bahrain,1755.42,584,6
+All,Unknown,8,France,1687.1299999999999,1613,8
+All,Unknown,9,Bermuda,1253.1399999999999,2798,1
+All,Unknown,10,Israel,913.57,363,3
+All,Unknown,11,Portugal,728.75,296,2
+All,Unknown,12,Switzerland,623.65,535,3
+All,Unknown,13,Sweden,354.0,138,1
+All,Unknown,14,Lebanon,211.7,72,1
+2009,All,1,United Kingdom,747397.29,386352,1595
+2009,All,2,EIRE,20099.74,9414,20
+2009,All,3,Netherlands,15204.73,10822,6
+2009,All,4,Germany,9830.27,4774,18
+2009,All,5,Spain,7950.18,3279,5
+2009,All,6,France,6521.69,3688,13
+2009,All,7,Cyprus,3541.68,1572,4
+2009,All,8,Portugal,2821.58,1575,2
+2009,All,9,Austria,1998.34,564,2
+2009,All,10,Denmark,1437.66,574,2
+2009,All,11,Channel Islands,989.18,439,1
+2009,All,12,Greece,610.95,441,1
+2009,All,13,Switzerland,589.4,220,1
+2009,All,14,Finland,549.08,134,1
+2009,All,15,United Arab Emirates,517.7,520,1
+2009,All,16,Norway,485.31,182,1
+2009,All,17,Belgium,447.6,153,3
+2009,All,18,Italy,422.35,157,1
+2009,All,19,Poland,371.82,266,1
+2009,All,20,Sweden,285.29999999999995,174,1
+2009,All,21,Australia,271.1,160,2
+2009,All,22,USA,141.0,1,1
+2010,All,1,United Kingdom,8407136.953,4467458,18368
+2010,All,2,EIRE,365560.31,185678,335
+2010,All,3,Netherlands,262171.5,179507,131
+2010,All,4,Germany,201716.781,108091,344
+2010,All,5,France,143907.34,161141,238
+2010,All,6,Sweden,57050.99,56335,70
+2010,All,7,Denmark,49469.19,229116,24
+2010,All,8,Switzerland,44333.51,22639,40
+2010,All,9,Spain,40667.48,19962,63
+2010,All,10,Australia,31523.9,20165,39
+2010,All,11,Belgium,25553.79,13133,53
+2010,All,12,Channel Islands,23557.14,11552,29
+2010,All,13,Norway,23458.87,7685,10
+2010,All,14,Portugal,22218.87,10897,41
+2010,All,15,Italy,15014.08,7338,28
+2010,All,16,Greece,13724.72,5726,12
+2010,All,17,Japan,13312.609999999999,9720,17
+2010,All,18,Austria,11693.19,6184,27
+2010,All,19,Cyprus,9392.49,3954,18
+2010,All,20,United Arab Emirates,8677.65,5819,12
+2010,All,21,Hong Kong,8202.52,2308,4
+2010,All,22,Finland,7723.18,4791,16
+2010,All,23,Unspecified,6186.22,3434,11
+2010,All,24,Malta,5373.5,1549,4
+2010,All,25,Lithuania,4892.68,2306,6
+2010,All,26,USA,4645.47,2805,14
+2010,All,27,Singapore,4037.77,1753,4
+2010,All,28,RSA,3802.01,1619,3
+2010,All,29,Israel,3199.4,1132,2
+2010,All,30,Poland,3195.98,1878,9
+2010,All,31,Thailand,3070.54,2552,2
+2010,All,32,Bahrain,2561.39,1079,8
+2010,All,33,Iceland,1323.32,828,2
+2010,All,34,Bermuda,1253.1399999999999,2798,1
+2010,All,35,Canada,1216.66,894,2
+2010,All,36,Korea,1118.51,700,2
+2010,All,37,West Indies,536.41,395,1
+2010,All,38,Brazil,268.27,189,1
+2010,All,39,Lebanon,211.7,72,1
+2010,All,40,Nigeria,140.39,103,2
+2011,All,1,United Kingdom,8255661.874,4333943,16572
+2011,All,2,Netherlands,276661.86,193550,91
+2011,All,3,EIRE,273107.26,141237,271
+2011,All,4,Germany,213472.66,112289,427
+2011,All,5,France,200027.06,107072,371
+2011,All,6,Australia,137488.46,83434,54
+2011,All,7,Spain,59714.83,27066,86
+2011,All,8,Switzerland,55762.68,29903,52
+2011,All,9,Belgium,39386.43,21482,93
+2011,All,10,Sweden,34533.53,32124,34
+2011,All,11,Norway,32378.32,15754,34
+2011,All,12,Portugal,31243.08,15247,52
+2011,All,13,Japan,29711.3,21923,16
+2011,All,14,Finland,21653.28,9450,40
+2011,All,15,Singapore,21279.29,5241,7
+2011,All,16,Channel Islands,20077.01,9405,25
+2011,All,17,Denmark,17673.84,7781,17
+2011,All,18,Italy,16671.74,7817,36
+2011,All,19,Hong Kong,15483.0,4713,11
+2011,All,20,Cyprus,11915.78,5424,15
+2011,All,21,Austria,9921.48,4830,16
+2011,All,22,Israel,8129.41,4406,8
+2011,All,23,Poland,7086.49,3544,18
+2011,All,24,Greece,4760.52,1557,5
+2011,All,25,Unspecified,4740.94,3295,13
+2011,All,26,Canada,3666.38,2763,6
+2011,All,27,Iceland,3598.21,2139,6
+2011,All,28,USA,3580.39,2458,5
+2011,All,29,Malta,2725.59,970,5
+2011,All,30,United Arab Emirates,1902.28,982,3
+2011,All,31,Lebanon,1693.88,386,1
+2011,All,32,European Community,1300.25,499,4
+2011,All,33,Brazil,1143.6,356,1
+2011,All,34,RSA,1002.3100000000001,351,1
+2011,All,35,Czech Republic,826.74,671,2
+2011,All,36,Bahrain,548.4,260,2
+2011,All,37,Saudi Arabia,145.92,80,1
+2009,One-time,1,United Kingdom,18431.53,10056,80
+2009,One-time,2,United Arab Emirates,517.7,520,1
+2009,One-time,3,Norway,485.31,182,1
+2009,One-time,4,Sweden,285.29999999999995,174,1
+2009,One-time,5,USA,141.0,1,1
+2009,Repeat,1,United Kingdom,591915.1,350294,1349
+2009,Repeat,2,EIRE,18170.46,8615,16
+2009,Repeat,3,Netherlands,15204.73,10822,6
+2009,Repeat,4,Germany,9830.27,4774,18
+2009,Repeat,5,Spain,7950.18,3279,5
+2009,Repeat,6,France,6521.69,3688,13
+2009,Repeat,7,Cyprus,3541.68,1572,4
+2009,Repeat,8,Portugal,2821.58,1575,2
+2009,Repeat,9,Austria,1998.34,564,2
+2009,Repeat,10,Denmark,1437.66,574,2
+2009,Repeat,11,Channel Islands,989.18,439,1
+2009,Repeat,12,Greece,610.95,441,1
+2009,Repeat,13,Switzerland,589.4,220,1
+2009,Repeat,14,Finland,549.08,134,1
+2009,Repeat,15,Belgium,447.6,153,3
+2009,Repeat,16,Italy,422.35,157,1
+2009,Repeat,17,Poland,371.82,266,1
+2009,Repeat,18,Australia,271.1,160,2
+2009,Unknown,1,United Kingdom,137050.66,26002,166
+2009,Unknown,2,EIRE,1929.28,799,4
+2010,One-time,1,United Kingdom,248409.451,234142,758
+2010,One-time,2,Germany,5347.6810000000005,2947,8
+2010,One-time,3,Sweden,4399.89,2382,7
+2010,One-time,4,Spain,3424.86,1850,8
+2010,One-time,5,Greece,3084.02,1753,1
+2010,One-time,6,Netherlands,2986.21,1914,6
+2010,One-time,7,Belgium,2330.35,817,3
+2010,One-time,8,Norway,1993.34,1450,1
+2010,One-time,9,Italy,1588.1399999999999,568,3
+2010,One-time,10,Cyprus,1417.94,626,2
+2010,One-time,11,Israel,1248.42,370,1
+2010,One-time,12,United Arab Emirates,1201.52,1359,1
+2010,One-time,13,Australia,1133.4,568,5
+2010,One-time,14,Korea,1118.51,700,2
+2010,One-time,15,France,1008.2,537,6
+2010,One-time,16,RSA,931.43,591,1
+2010,One-time,17,Channel Islands,919.7,645,1
+2010,One-time,18,Portugal,579.77,260,4
+2010,One-time,19,West Indies,536.41,395,1
+2010,One-time,20,Unspecified,512.88,356,2
+2010,One-time,21,Brazil,268.27,189,1
+2010,One-time,22,Japan,219.35,137,1
+2010,One-time,23,USA,132.8,129,1
+2010,One-time,24,EIRE,107.14,1,1
+2010,One-time,25,Finland,63.24,1,1
+2010,Repeat,1,United Kingdom,6741931.532,3963187,15999
+2010,Repeat,2,EIRE,341844.36,174515,305
+2010,Repeat,3,Netherlands,259185.29,177593,125
+2010,Repeat,4,Germany,196369.1,105144,336
+2010,Repeat,5,France,141903.07,159623,227
+2010,Repeat,6,Sweden,52297.1,53815,62
+2010,Repeat,7,Denmark,49469.19,229116,24
+2010,Repeat,8,Switzerland,44333.51,22639,40
+2010,Repeat,9,Spain,37242.62,18112,55
+2010,Repeat,10,Australia,30390.5,19597,34
+2010,Repeat,11,Belgium,23223.44,12316,50
+2010,Repeat,12,Channel Islands,22637.44,10907,28
+2010,Repeat,13,Norway,21465.53,6235,9
+2010,Repeat,14,Portugal,21217.56,10477,36
+2010,Repeat,15,Italy,13425.94,6770,25
+2010,Repeat,16,Japan,13093.26,9583,16
+2010,Repeat,17,Austria,11693.19,6184,27
+2010,Repeat,18,Greece,10640.7,3973,11
+2010,Repeat,19,Cyprus,7974.55,3328,16
+2010,Repeat,20,Finland,7659.9400000000005,4790,15
+2010,Repeat,21,United Arab Emirates,5581.1900000000005,2978,6
+2010,Repeat,22,Unspecified,5433.7,2972,6
+2010,Repeat,23,Malta,5373.5,1549,4
+2010,Repeat,24,Lithuania,4892.68,2306,6
+2010,Repeat,25,USA,4512.67,2676,13
+2010,Repeat,26,Singapore,4037.77,1753,4
+2010,Repeat,27,Poland,3195.98,1878,9
+2010,Repeat,28,Thailand,3070.54,2552,2
+2010,Repeat,29,Israel,1950.98,762,1
+2010,Repeat,30,Iceland,1323.32,828,2
+2010,Repeat,31,Canada,1216.66,894,2
+2010,Repeat,32,Bahrain,805.97,495,2
+2010,Repeat,33,Nigeria,140.39,103,2
+2010,Unknown,1,United Kingdom,1416795.97,270129,1611
+2010,Unknown,2,EIRE,23608.81,11162,29
+2010,Unknown,3,Hong Kong,8202.52,2308,4
+2010,Unknown,4,RSA,2870.58,1028,2
+2010,Unknown,5,United Arab Emirates,1894.9399999999998,1482,5
+2010,Unknown,6,Bahrain,1755.42,584,6
+2010,Unknown,7,Bermuda,1253.1399999999999,2798,1
+2010,Unknown,8,France,996.0699999999999,981,5
+2010,Unknown,9,Portugal,421.54,160,1
+2010,Unknown,10,Sweden,354.0,138,1
+2010,Unknown,11,Unspecified,239.64,106,3
+2010,Unknown,12,Lebanon,211.7,72,1
+2011,One-time,1,United Kingdom,206798.33,124790,636
+2011,One-time,2,Germany,8866.2,5082,14
+2011,One-time,3,France,6862.09,3819,21
+2011,One-time,4,Norway,5466.59,2787,4
+2011,One-time,5,Israel,4873.81,3028,1
+2011,One-time,6,Spain,3133.64,1709,6
+2011,One-time,7,Finland,2474.52,1303,3
+2011,One-time,8,Austria,2249.17,1402,2
+2011,One-time,9,USA,1849.47,1424,2
+2011,One-time,10,Lebanon,1693.88,386,1
+2011,One-time,11,Switzerland,1635.66,1394,1
+2011,One-time,12,Italy,1370.63,942,2
+2011,One-time,13,Portugal,1322.95,624,2
+2011,One-time,14,Brazil,1143.6,356,1
+2011,One-time,15,Belgium,1110.63,554,3
+2011,One-time,16,RSA,1002.3100000000001,351,1
+2011,One-time,17,Canada,726.3399999999999,644,3
+2011,One-time,18,Greece,680.99,236,1
+2011,One-time,19,Cyprus,600.39,345,1
+2011,One-time,20,Sweden,529.26,264,2
+2011,One-time,21,Poland,401.8,186,2
+2011,One-time,22,Japan,341.72,308,2
+2011,One-time,23,Denmark,168.9,173,1
+2011,One-time,24,Saudi Arabia,145.92,80,1
+2011,Repeat,1,United Kingdom,6581748.974,3849942,14719
+2011,Repeat,2,Netherlands,276661.86,193550,91
+2011,Repeat,3,EIRE,256448.58,134890,245
+2011,Repeat,4,Germany,204606.46,107207,413
+2011,Repeat,5,France,192473.91,102621,347
+2011,Repeat,6,Australia,137488.46,83434,54
+2011,Repeat,7,Spain,56581.19,25357,80
+2011,Repeat,8,Switzerland,53503.37,27974,48
+2011,Repeat,9,Belgium,38275.8,20928,90
+2011,Repeat,10,Sweden,34004.27,31860,32
+2011,Repeat,11,Portugal,29612.920000000002,14487,49
+2011,Repeat,12,Japan,29369.579999999998,21615,14
+2011,Repeat,13,Norway,26911.73,12967,30
+2011,Repeat,14,Singapore,21279.29,5241,7
+2011,Repeat,15,Channel Islands,20077.01,9405,25
+2011,Repeat,16,Finland,19178.76,8147,37
+2011,Repeat,17,Denmark,17504.940000000002,7608,16
+2011,Repeat,18,Italy,15301.11,6875,34
+2011,Repeat,19,Cyprus,11315.39,5079,14
+2011,Repeat,20,Austria,7672.31,3428,14
+2011,Repeat,21,Poland,6684.69,3358,16
+2011,Repeat,22,Greece,4079.53,1321,4
+2011,Repeat,23,Iceland,3598.21,2139,6
+2011,Repeat,24,Canada,2940.04,2119,3
+2011,Repeat,25,Malta,2725.59,970,5
+2011,Repeat,26,Unspecified,2660.77,1785,8
+2011,Repeat,27,Israel,2342.03,1015,4
+2011,Repeat,28,United Arab Emirates,1902.28,982,3
+2011,Repeat,29,USA,1730.92,1034,3
+2011,Repeat,30,European Community,1300.25,499,4
+2011,Repeat,31,Czech Republic,826.74,671,2
+2011,Repeat,32,Bahrain,548.4,260,2
+2011,Unknown,1,United Kingdom,1467114.57,359211,1217
+2011,Unknown,2,EIRE,16658.68,6347,26
+2011,Unknown,3,Hong Kong,15483.0,4713,11
+2011,Unknown,4,Unspecified,2080.17,1510,5
+2011,Unknown,5,Israel,913.57,363,3
+2011,Unknown,6,France,691.06,632,3
+2011,Unknown,7,Switzerland,623.65,535,3
+2011,Unknown,8,Portugal,307.21,136,1

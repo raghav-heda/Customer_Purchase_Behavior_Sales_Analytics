@@ -1,0 +1,1132 @@
+{
+  "quality": {
+    "raw_records": 1067371,
+    "valid_before_deduplication": 1041670,
+    "cleaned_records": 1007913,
+    "missing_customer_id_raw": 243007,
+    "missing_customer_id_clean": 228488,
+    "cancelled_rows": 19494,
+    "nonpositive_quantity_rows": 22950,
+    "nonpositive_price_rows": 6207,
+    "exact_duplicates_removed_from_valid_population": 33757
+  },
+  "query_previews": {
+    "raw_data_profile": [
+      {
+        "raw_records": 1067371,
+        "raw_orders": 53628,
+        "raw_customers": 5942,
+        "missing_customer_id_rows": 243007,
+        "cancelled_rows": 19494,
+        "nonpositive_quantity_rows": 22950,
+        "nonpositive_price_rows": 6207,
+        "missing_description_rows": 4382,
+        "first_transaction": "2009-12-01 07:45:00",
+        "last_transaction": "2011-12-09 12:50:00"
+      }
+    ],
+    "cleaned_kpis": [
+      {
+        "cleaned_records": 1007913,
+        "total_revenue": 20476260.45,
+        "total_orders": 40077,
+        "total_customers": 5878,
+        "average_order_value": 510.92,
+        "repeat_customers": 4255,
+        "repeat_purchase_rate_pct": 72.39,
+        "total_quantity": 11205148
+      }
+    ],
+    "monthly_trends": [
+      {
+        "invoice_month": "2009-12",
+        "revenue": 822483.95,
+        "quantity_sold": 425461,
+        "orders": 1682,
+        "customers": 955,
+        "aov": 488.99
+      },
+      {
+        "invoice_month": "2010-01",
+        "revenue": 651155.11,
+        "quantity_sold": 390672,
+        "orders": 1105,
+        "customers": 720,
+        "aov": 589.28
+      },
+      {
+        "invoice_month": "2010-02",
+        "revenue": 551504.73,
+        "quantity_sold": 381879,
+        "orders": 1201,
+        "customers": 772,
+        "aov": 459.2
+      },
+      {
+        "invoice_month": "2010-03",
+        "revenue": 830915.26,
+        "quantity_sold": 526026,
+        "orders": 1681,
+        "customers": 1057,
+        "aov": 494.3
+      },
+      {
+        "invoice_month": "2010-04",
+        "revenue": 678875.25,
+        "quantity_sold": 366705,
+        "orders": 1462,
+        "customers": 942,
+        "aov": 464.35
+      },
+      {
+        "invoice_month": "2010-05",
+        "revenue": 657705.5,
+        "quantity_sold": 395868,
+        "orders": 1500,
+        "customers": 966,
+        "aov": 438.47
+      },
+      {
+        "invoice_month": "2010-06",
+        "revenue": 749537.31,
+        "quantity_sold": 406820,
+        "orders": 1645,
+        "customers": 1041,
+        "aov": 455.65
+      },
+      {
+        "invoice_month": "2010-07",
+        "revenue": 648810.27,
+        "quantity_sold": 337895,
+        "orders": 1529,
+        "customers": 928,
+        "aov": 424.34
+      },
+      {
+        "invoice_month": "2010-08",
+        "revenue": 695251.91,
+        "quantity_sold": 472380,
+        "orders": 1425,
+        "customers": 911,
+        "aov": 487.9
+      },
+      {
+        "invoice_month": "2010-09",
+        "revenue": 921696.99,
+        "quantity_sold": 583864,
+        "orders": 1839,
+        "customers": 1145,
+        "aov": 501.19
+      },
+      {
+        "invoice_month": "2010-10",
+        "revenue": 1161902.22,
+        "quantity_sold": 619996,
+        "orders": 2301,
+        "customers": 1497,
+        "aov": 504.96
+      },
+      {
+        "invoice_month": "2010-11",
+        "revenue": 1464293.14,
+        "quantity_sold": 725161,
+        "orders": 2747,
+        "customers": 1607,
+        "aov": 533.05
+      },
+      {
+        "invoice_month": "2010-12",
+        "revenue": 821452.73,
+        "quantity_sold": 358019,
+        "orders": 1559,
+        "customers": 885,
+        "aov": 526.91
+      },
+      {
+        "invoice_month": "2011-01",
+        "revenue": 689811.61,
+        "quantity_sold": 387099,
+        "orders": 1086,
+        "customers": 741,
+        "aov": 635.19
+      },
+      {
+        "invoice_month": "2011-02",
+        "revenue": 522545.56,
+        "quantity_sold": 282934,
+        "orders": 1100,
+        "customers": 758,
+        "aov": 475.04
+      },
+      {
+        "invoice_month": "2011-03",
+        "revenue": 716215.26,
+        "quantity_sold": 376599,
+        "orders": 1454,
+        "customers": 974,
+        "aov": 492.58
+      },
+      {
+        "invoice_month": "2011-04",
+        "revenue": 536968.49,
+        "quantity_sold": 307953,
+        "orders": 1246,
+        "customers": 856,
+        "aov": 430.95
+      },
+      {
+        "invoice_month": "2011-05",
+        "revenue": 769296.61,
+        "quantity_sold": 395001,
+        "orders": 1681,
+        "customers": 1056,
+        "aov": 457.64
+      },
+      {
+        "invoice_month": "2011-06",
+        "revenue": 760547.01,
+        "quantity_sold": 388511,
+        "orders": 1533,
+        "customers": 991,
+        "aov": 496.12
+      },
+      {
+        "invoice_month": "2011-07",
+        "revenue": 718076.12,
+        "quantity_sold": 399693,
+        "orders": 1475,
+        "customers": 949,
+        "aov": 486.83
+      },
+      {
+        "invoice_month": "2011-08",
+        "revenue": 757841.38,
+        "quantity_sold": 421020,
+        "orders": 1361,
+        "customers": 935,
+        "aov": 556.83
+      },
+      {
+        "invoice_month": "2011-09",
+        "revenue": 1056435.19,
+        "quantity_sold": 569573,
+        "orders": 1837,
+        "customers": 1266,
+        "aov": 575.09
+      },
+      {
+        "invoice_month": "2011-10",
+        "revenue": 1151263.73,
+        "quantity_sold": 621029,
+        "orders": 2040,
+        "customers": 1364,
+        "aov": 564.34
+      },
+      {
+        "invoice_month": "2011-11",
+        "revenue": 1503866.78,
+        "quantity_sold": 751377,
+        "orders": 2769,
+        "customers": 1664,
+        "aov": 543.11
+      },
+      {
+        "invoice_month": "2011-12",
+        "revenue": 637808.33,
+        "quantity_sold": 313613,
+        "orders": 819,
+        "customers": 615,
+        "aov": 778.76
+      }
+    ],
+    "yearly_trends": [
+      {
+        "invoice_year": "2009",
+        "revenue": 822483.95,
+        "quantity_sold": 425461,
+        "orders": 1682,
+        "customers": 955,
+        "aov": 488.99
+      },
+      {
+        "invoice_year": "2010",
+        "revenue": 9833100.42,
+        "quantity_sold": 5565285,
+        "orders": 19994,
+        "customers": 4231,
+        "aov": 491.8
+      },
+      {
+        "invoice_year": "2011",
+        "revenue": 9820676.07,
+        "quantity_sold": 5214402,
+        "orders": 18401,
+        "customers": 4219,
+        "aov": 533.7
+      }
+    ],
+    "product_performance": [
+      {
+        "stock_code": "M",
+        "product_description": "Manual",
+        "revenue": 339226.24,
+        "quantity_sold": 9629,
+        "orders": 784,
+        "customers": 438,
+        "realized_unit_price": 35.23
+      },
+      {
+        "stock_code": "22423",
+        "product_description": "REGENCY CAKESTAND 3 TIER",
+        "revenue": 330590.32,
+        "quantity_sold": 26478,
+        "orders": 3918,
+        "customers": 1314,
+        "realized_unit_price": 12.49
+      },
+      {
+        "stock_code": "DOT",
+        "product_description": "DOTCOM POSTAGE",
+        "revenue": 309854.11,
+        "quantity_sold": 1415,
+        "orders": 1415,
+        "customers": 1,
+        "realized_unit_price": 218.98
+      },
+      {
+        "stock_code": "85123A",
+        "product_description": "WHITE HANGING HEART T-LIGHT HOLDER",
+        "revenue": 257724.71,
+        "quantity_sold": 94203,
+        "orders": 5365,
+        "customers": 1490,
+        "realized_unit_price": 2.74
+      },
+      {
+        "stock_code": "85099B",
+        "product_description": "RED RETROSPOT JUMBO BAG",
+        "revenue": 180569.34,
+        "quantity_sold": 96757,
+        "orders": 3989,
+        "customers": 978,
+        "realized_unit_price": 1.87
+      },
+      {
+        "stock_code": "23843",
+        "product_description": "PAPER CRAFT , LITTLE BIRDIE",
+        "revenue": 168469.6,
+        "quantity_sold": 80995,
+        "orders": 1,
+        "customers": 1,
+        "realized_unit_price": 2.08
+      },
+      {
+        "stock_code": "47566",
+        "product_description": "PARTY BUNTING",
+        "revenue": 148318.28,
+        "quantity_sold": 28200,
+        "orders": 2674,
+        "customers": 894,
+        "realized_unit_price": 5.26
+      },
+      {
+        "stock_code": "84879",
+        "product_description": "ASSORTED COLOUR BIRD ORNAMENT",
+        "revenue": 129324.49,
+        "quantity_sold": 80082,
+        "orders": 2807,
+        "customers": 1010,
+        "realized_unit_price": 1.61
+      },
+      {
+        "stock_code": "POST",
+        "product_description": "POSTAGE",
+        "revenue": 125682.42,
+        "quantity_sold": 5363,
+        "orders": 1851,
+        "customers": 405,
+        "realized_unit_price": 23.44
+      },
+      {
+        "stock_code": "22086",
+        "product_description": "PAPER CHAIN KIT 50'S CHRISTMAS",
+        "revenue": 117760.29,
+        "quantity_sold": 35084,
+        "orders": 2018,
+        "customers": 896,
+        "realized_unit_price": 3.36
+      },
+      {
+        "stock_code": "23166",
+        "product_description": "MEDIUM CERAMIC TOP STORAGE JAR",
+        "revenue": 81700.92,
+        "quantity_sold": 78033,
+        "orders": 247,
+        "customers": 138,
+        "realized_unit_price": 1.05
+      },
+      {
+        "stock_code": "79321",
+        "product_description": "CHILLI LIGHTS",
+        "revenue": 80540.88,
+        "quantity_sold": 15841,
+        "orders": 1135,
+        "customers": 304,
+        "realized_unit_price": 5.08
+      },
+      {
+        "stock_code": "22197",
+        "product_description": "SMALL POPCORN HOLDER",
+        "revenue": 79520.2,
+        "quantity_sold": 88499,
+        "orders": 2322,
+        "customers": 601,
+        "realized_unit_price": 0.9
+      },
+      {
+        "stock_code": "22386",
+        "product_description": "JUMBO BAG PINK WITH WHITE SPOTS",
+        "revenue": 76324.62,
+        "quantity_sold": 39437,
+        "orders": 2245,
+        "customers": 601,
+        "realized_unit_price": 1.94
+      },
+      {
+        "stock_code": "84347",
+        "product_description": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+        "revenue": 71300.4,
+        "quantity_sold": 31409,
+        "orders": 756,
+        "customers": 300,
+        "realized_unit_price": 2.27
+      },
+      {
+        "stock_code": "20725",
+        "product_description": "LUNCH BAG RED SPOTTY",
+        "revenue": 71106.29,
+        "quantity_sold": 40317,
+        "orders": 3056,
+        "customers": 845,
+        "realized_unit_price": 1.76
+      },
+      {
+        "stock_code": "85099F",
+        "product_description": "JUMBO BAG STRAWBERRY",
+        "revenue": 67985.77,
+        "quantity_sold": 36860,
+        "orders": 1830,
+        "customers": 549,
+        "realized_unit_price": 1.84
+      },
+      {
+        "stock_code": "48138",
+        "product_description": "DOORMAT UNION FLAG",
+        "revenue": 67010.31,
+        "quantity_sold": 10077,
+        "orders": 1664,
+        "customers": 678,
+        "realized_unit_price": 6.65
+      },
+      {
+        "stock_code": "23084",
+        "product_description": "RABBIT NIGHT LIGHT",
+        "revenue": 66870.03,
+        "quantity_sold": 30739,
+        "orders": 994,
+        "customers": 450,
+        "realized_unit_price": 2.18
+      },
+      {
+        "stock_code": "20685",
+        "product_description": "RED SPOTTY COIR DOORMAT",
+        "revenue": 66417.47,
+        "quantity_sold": 9783,
+        "orders": 1725,
+        "customers": 626,
+        "realized_unit_price": 6.79
+      },
+      {
+        "stock_code": "21137",
+        "product_description": "BLACK RECORD COVER FRAME",
+        "revenue": 65189.29,
+        "quantity_sold": 18739,
+        "orders": 634,
+        "customers": 198,
+        "realized_unit_price": 3.48
+      },
+      {
+        "stock_code": "21843",
+        "product_description": "RETRO SPOT CAKE STAND",
+        "revenue": 64918.3,
+        "quantity_sold": 6128,
+        "orders": 1527,
+        "customers": 599,
+        "realized_unit_price": 10.59
+      },
+      {
+        "stock_code": "21931",
+        "product_description": "JUMBO STORAGE BAG SUKI",
+        "revenue": 61537.55,
+        "quantity_sold": 29182,
+        "orders": 2329,
+        "customers": 546,
+        "realized_unit_price": 2.11
+      },
+      {
+        "stock_code": "22502",
+        "product_description": "PICNIC BASKET WICKER SMALL",
+        "revenue": 60880.3,
+        "quantity_sold": 3766,
+        "orders": 924,
+        "customers": 335,
+        "realized_unit_price": 16.17
+      },
+      {
+        "stock_code": "21621",
+        "product_description": "VINTAGE UNION JACK BUNTING",
+        "revenue": 60286.04,
+        "quantity_sold": 6900,
+        "orders": 1292,
+        "customers": 583,
+        "realized_unit_price": 8.74
+      }
+    ],
+    "country_performance": [
+      {
+        "country": "United Kingdom",
+        "revenue": 17410196.12,
+        "quantity_sold": 9187753,
+        "orders": 36535,
+        "customers": 5350,
+        "aov": 476.53,
+        "revenue_share_pct": 85.03
+      },
+      {
+        "country": "EIRE",
+        "revenue": 658767.31,
+        "quantity_sold": 336329,
+        "orders": 626,
+        "customers": 5,
+        "aov": 1052.34,
+        "revenue_share_pct": 3.22
+      },
+      {
+        "country": "Netherlands",
+        "revenue": 554038.09,
+        "quantity_sold": 383879,
+        "orders": 228,
+        "customers": 22,
+        "aov": 2429.99,
+        "revenue_share_pct": 2.71
+      },
+      {
+        "country": "Germany",
+        "revenue": 425019.71,
+        "quantity_sold": 225154,
+        "orders": 789,
+        "customers": 107,
+        "aov": 538.68,
+        "revenue_share_pct": 2.08
+      },
+      {
+        "country": "France",
+        "revenue": 350456.09,
+        "quantity_sold": 271901,
+        "orders": 622,
+        "customers": 95,
+        "aov": 563.43,
+        "revenue_share_pct": 1.71
+      },
+      {
+        "country": "Australia",
+        "revenue": 169283.46,
+        "quantity_sold": 103759,
+        "orders": 95,
+        "customers": 15,
+        "aov": 1781.93,
+        "revenue_share_pct": 0.83
+      },
+      {
+        "country": "Spain",
+        "revenue": 108332.49,
+        "quantity_sold": 50307,
+        "orders": 154,
+        "customers": 41,
+        "aov": 703.46,
+        "revenue_share_pct": 0.53
+      },
+      {
+        "country": "Switzerland",
+        "revenue": 100685.59,
+        "quantity_sold": 52762,
+        "orders": 93,
+        "customers": 22,
+        "aov": 1082.64,
+        "revenue_share_pct": 0.49
+      },
+      {
+        "country": "Sweden",
+        "revenue": 91869.82,
+        "quantity_sold": 88633,
+        "orders": 105,
+        "customers": 19,
+        "aov": 874.95,
+        "revenue_share_pct": 0.45
+      },
+      {
+        "country": "Denmark",
+        "revenue": 68580.69,
+        "quantity_sold": 237471,
+        "orders": 43,
+        "customers": 12,
+        "aov": 1594.9,
+        "revenue_share_pct": 0.33
+      },
+      {
+        "country": "Belgium",
+        "revenue": 65387.82,
+        "quantity_sold": 34768,
+        "orders": 149,
+        "customers": 29,
+        "aov": 438.84,
+        "revenue_share_pct": 0.32
+      },
+      {
+        "country": "Norway",
+        "revenue": 56322.5,
+        "quantity_sold": 23621,
+        "orders": 45,
+        "customers": 13,
+        "aov": 1251.61,
+        "revenue_share_pct": 0.28
+      },
+      {
+        "country": "Portugal",
+        "revenue": 56283.53,
+        "quantity_sold": 27719,
+        "orders": 95,
+        "customers": 24,
+        "aov": 592.46,
+        "revenue_share_pct": 0.27
+      },
+      {
+        "country": "Channel Islands",
+        "revenue": 44623.33,
+        "quantity_sold": 21396,
+        "orders": 55,
+        "customers": 13,
+        "aov": 811.33,
+        "revenue_share_pct": 0.22
+      },
+      {
+        "country": "Japan",
+        "revenue": 43023.91,
+        "quantity_sold": 31643,
+        "orders": 33,
+        "customers": 10,
+        "aov": 1303.75,
+        "revenue_share_pct": 0.21
+      },
+      {
+        "country": "Italy",
+        "revenue": 32108.17,
+        "quantity_sold": 15312,
+        "orders": 65,
+        "customers": 17,
+        "aov": 493.97,
+        "revenue_share_pct": 0.16
+      },
+      {
+        "country": "Finland",
+        "revenue": 29925.54,
+        "quantity_sold": 14375,
+        "orders": 57,
+        "customers": 14,
+        "aov": 525.01,
+        "revenue_share_pct": 0.15
+      },
+      {
+        "country": "Singapore",
+        "revenue": 25317.06,
+        "quantity_sold": 6994,
+        "orders": 11,
+        "customers": 1,
+        "aov": 2301.55,
+        "revenue_share_pct": 0.12
+      },
+      {
+        "country": "Cyprus",
+        "revenue": 24849.95,
+        "quantity_sold": 10950,
+        "orders": 37,
+        "customers": 11,
+        "aov": 671.62,
+        "revenue_share_pct": 0.12
+      },
+      {
+        "country": "Hong Kong",
+        "revenue": 23685.52,
+        "quantity_sold": 7021,
+        "orders": 15,
+        "customers": 0,
+        "aov": 1579.03,
+        "revenue_share_pct": 0.12
+      },
+      {
+        "country": "Austria",
+        "revenue": 23613.01,
+        "quantity_sold": 11578,
+        "orders": 45,
+        "customers": 13,
+        "aov": 524.73,
+        "revenue_share_pct": 0.12
+      },
+      {
+        "country": "Greece",
+        "revenue": 19096.19,
+        "quantity_sold": 7724,
+        "orders": 18,
+        "customers": 5,
+        "aov": 1060.9,
+        "revenue_share_pct": 0.09
+      },
+      {
+        "country": "Israel",
+        "revenue": 11328.81,
+        "quantity_sold": 5538,
+        "orders": 10,
+        "customers": 4,
+        "aov": 1132.88,
+        "revenue_share_pct": 0.06
+      },
+      {
+        "country": "United Arab Emirates",
+        "revenue": 11097.63,
+        "quantity_sold": 7321,
+        "orders": 16,
+        "customers": 4,
+        "aov": 693.6,
+        "revenue_share_pct": 0.05
+      },
+      {
+        "country": "Unspecified",
+        "revenue": 10927.16,
+        "quantity_sold": 6729,
+        "orders": 24,
+        "customers": 6,
+        "aov": 455.3,
+        "revenue_share_pct": 0.05
+      }
+    ],
+    "invoice_value_distribution": [
+      {
+        "orders": 40077,
+        "mean_order_value": 510.92,
+        "minimum_order_value": 0.19,
+        "maximum_order_value": 168469.6,
+        "mean_order_quantity": 279.59
+      }
+    ],
+    "customer_metrics": [
+      {
+        "customer_id": 18102,
+        "order_count": 145,
+        "total_spend": 580987.04,
+        "average_order_value": 4006.81,
+        "total_quantity": 181645,
+        "first_purchase": "2009-12-01 09:24:00",
+        "last_purchase": "2011-12-09 11:50:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 3.3438,
+        "revenue_rank": 1,
+        "cumulative_known_revenue_pct": 3.34
+      },
+      {
+        "customer_id": 14646,
+        "order_count": 151,
+        "total_spend": 528602.52,
+        "average_order_value": 3500.68,
+        "total_quantity": 367193,
+        "first_purchase": "2009-12-02 16:52:00",
+        "last_purchase": "2011-12-08 12:12:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 3.0424,
+        "revenue_rank": 2,
+        "cumulative_known_revenue_pct": 6.39
+      },
+      {
+        "customer_id": 14156,
+        "order_count": 156,
+        "total_spend": 313437.62,
+        "average_order_value": 2009.22,
+        "total_quantity": 164325,
+        "first_purchase": "2009-12-01 12:30:00",
+        "last_purchase": "2011-11-30 10:54:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 1.804,
+        "revenue_rank": 3,
+        "cumulative_known_revenue_pct": 8.19
+      },
+      {
+        "customer_id": 14911,
+        "order_count": 398,
+        "total_spend": 291420.81,
+        "average_order_value": 732.21,
+        "total_quantity": 147972,
+        "first_purchase": "2009-12-01 11:41:00",
+        "last_purchase": "2011-12-08 15:54:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 1.6773,
+        "revenue_rank": 4,
+        "cumulative_known_revenue_pct": 9.87
+      },
+      {
+        "customer_id": 17450,
+        "order_count": 51,
+        "total_spend": 244784.25,
+        "average_order_value": 4799.69,
+        "total_quantity": 83914,
+        "first_purchase": "2010-09-27 16:59:00",
+        "last_purchase": "2011-12-01 13:29:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 1.4088,
+        "revenue_rank": 5,
+        "cumulative_known_revenue_pct": 11.28
+      },
+      {
+        "customer_id": 13694,
+        "order_count": 143,
+        "total_spend": 195640.69,
+        "average_order_value": 1368.12,
+        "total_quantity": 188201,
+        "first_purchase": "2009-12-04 15:26:00",
+        "last_purchase": "2011-12-06 09:32:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 1.126,
+        "revenue_rank": 6,
+        "cumulative_known_revenue_pct": 12.4
+      },
+      {
+        "customer_id": 17511,
+        "order_count": 60,
+        "total_spend": 172132.87,
+        "average_order_value": 2868.88,
+        "total_quantity": 117174,
+        "first_purchase": "2009-12-02 10:52:00",
+        "last_purchase": "2011-12-07 10:12:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.9907,
+        "revenue_rank": 7,
+        "cumulative_known_revenue_pct": 13.39
+      },
+      {
+        "customer_id": 16446,
+        "order_count": 2,
+        "total_spend": 168472.5,
+        "average_order_value": 84236.25,
+        "total_quantity": 80997,
+        "first_purchase": "2011-05-18 09:52:00",
+        "last_purchase": "2011-12-09 09:15:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.9696,
+        "revenue_rank": 8,
+        "cumulative_known_revenue_pct": 14.36
+      },
+      {
+        "customer_id": 16684,
+        "order_count": 55,
+        "total_spend": 147142.77,
+        "average_order_value": 2675.32,
+        "total_quantity": 104810,
+        "first_purchase": "2009-12-07 12:56:00",
+        "last_purchase": "2011-12-05 14:06:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.8469,
+        "revenue_rank": 9,
+        "cumulative_known_revenue_pct": 15.21
+      },
+      {
+        "customer_id": 12415,
+        "order_count": 28,
+        "total_spend": 144458.37,
+        "average_order_value": 5159.23,
+        "total_quantity": 91447,
+        "first_purchase": "2010-06-30 08:30:00",
+        "last_purchase": "2011-11-15 14:22:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.8314,
+        "revenue_rank": 10,
+        "cumulative_known_revenue_pct": 16.04
+      },
+      {
+        "customer_id": 15061,
+        "order_count": 127,
+        "total_spend": 126389.02,
+        "average_order_value": 995.19,
+        "total_quantity": 74280,
+        "first_purchase": "2009-12-01 12:18:00",
+        "last_purchase": "2011-12-06 12:06:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.7274,
+        "revenue_rank": 11,
+        "cumulative_known_revenue_pct": 16.77
+      },
+      {
+        "customer_id": 16029,
+        "order_count": 107,
+        "total_spend": 117763.62,
+        "average_order_value": 1100.59,
+        "total_quantity": 54450,
+        "first_purchase": "2009-12-08 11:23:00",
+        "last_purchase": "2011-11-01 10:27:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.6778,
+        "revenue_rank": 12,
+        "cumulative_known_revenue_pct": 17.45
+      },
+      {
+        "customer_id": 17949,
+        "order_count": 118,
+        "total_spend": 117314.08,
+        "average_order_value": 994.19,
+        "total_quantity": 60538,
+        "first_purchase": "2009-12-02 11:07:00",
+        "last_purchase": "2011-12-08 18:46:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.6752,
+        "revenue_rank": 13,
+        "cumulative_known_revenue_pct": 18.12
+      },
+      {
+        "customer_id": 15311,
+        "order_count": 208,
+        "total_spend": 114966.42,
+        "average_order_value": 552.72,
+        "total_quantity": 70149,
+        "first_purchase": "2009-12-01 11:21:00",
+        "last_purchase": "2011-12-09 12:00:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.6617,
+        "revenue_rank": 14,
+        "cumulative_known_revenue_pct": 18.78
+      },
+      {
+        "customer_id": 13089,
+        "order_count": 203,
+        "total_spend": 113416.91,
+        "average_order_value": 558.7,
+        "total_quantity": 58932,
+        "first_purchase": "2009-12-02 15:44:00",
+        "last_purchase": "2011-12-07 09:02:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.6528,
+        "revenue_rank": 15,
+        "cumulative_known_revenue_pct": 19.44
+      },
+      {
+        "customer_id": 12931,
+        "order_count": 57,
+        "total_spend": 92347.34,
+        "average_order_value": 1620.13,
+        "total_quantity": 62906,
+        "first_purchase": "2009-12-01 11:46:00",
+        "last_purchase": "2011-11-18 12:39:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.5315,
+        "revenue_rank": 16,
+        "cumulative_known_revenue_pct": 19.97
+      },
+      {
+        "customer_id": 14298,
+        "order_count": 82,
+        "total_spend": 91194.49,
+        "average_order_value": 1112.13,
+        "total_quantity": 100272,
+        "first_purchase": "2009-12-11 13:49:00",
+        "last_purchase": "2011-12-01 13:12:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.5249,
+        "revenue_rank": 17,
+        "cumulative_known_revenue_pct": 20.49
+      },
+      {
+        "customer_id": 15769,
+        "order_count": 46,
+        "total_spend": 88612.52,
+        "average_order_value": 1926.36,
+        "total_quantity": 49068,
+        "first_purchase": "2009-12-11 09:58:00",
+        "last_purchase": "2011-12-02 13:52:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.51,
+        "revenue_rank": 18,
+        "cumulative_known_revenue_pct": 21.0
+      },
+      {
+        "customer_id": 12346,
+        "order_count": 12,
+        "total_spend": 77556.46,
+        "average_order_value": 6463.04,
+        "total_quantity": 74285,
+        "first_purchase": "2009-12-14 08:34:00",
+        "last_purchase": "2011-01-18 10:01:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.4464,
+        "revenue_rank": 19,
+        "cumulative_known_revenue_pct": 21.45
+      },
+      {
+        "customer_id": 13798,
+        "order_count": 110,
+        "total_spend": 75428.87,
+        "average_order_value": 685.72,
+        "total_quantity": 48187,
+        "first_purchase": "2009-12-08 16:21:00",
+        "last_purchase": "2011-12-08 15:51:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.4341,
+        "revenue_rank": 20,
+        "cumulative_known_revenue_pct": 21.88
+      },
+      {
+        "customer_id": 15838,
+        "order_count": 34,
+        "total_spend": 73205.5,
+        "average_order_value": 2153.1,
+        "total_quantity": 64114,
+        "first_purchase": "2009-12-15 09:51:00",
+        "last_purchase": "2011-11-28 14:00:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.4213,
+        "revenue_rank": 21,
+        "cumulative_known_revenue_pct": 22.3
+      },
+      {
+        "customer_id": 17841,
+        "order_count": 211,
+        "total_spend": 68545.25,
+        "average_order_value": 324.86,
+        "total_quantity": 36584,
+        "first_purchase": "2009-12-02 15:41:00",
+        "last_purchase": "2011-12-08 12:07:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.3945,
+        "revenue_rank": 22,
+        "cumulative_known_revenue_pct": 22.7
+      },
+      {
+        "customer_id": 16754,
+        "order_count": 29,
+        "total_spend": 65500.07,
+        "average_order_value": 2258.62,
+        "total_quantity": 63551,
+        "first_purchase": "2010-03-08 11:32:00",
+        "last_purchase": "2010-12-02 17:38:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.377,
+        "revenue_rank": 23,
+        "cumulative_known_revenue_pct": 23.08
+      },
+      {
+        "customer_id": 14096,
+        "order_count": 17,
+        "total_spend": 65164.79,
+        "average_order_value": 3833.22,
+        "total_quantity": 16352,
+        "first_purchase": "2011-08-30 10:49:00",
+        "last_purchase": "2011-12-05 17:17:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.3751,
+        "revenue_rank": 24,
+        "cumulative_known_revenue_pct": 23.45
+      },
+      {
+        "customer_id": 14088,
+        "order_count": 16,
+        "total_spend": 64036.8,
+        "average_order_value": 4002.3,
+        "total_quantity": 15276,
+        "first_purchase": "2010-10-14 19:46:00",
+        "last_purchase": "2011-11-29 16:16:00",
+        "customer_type": "Repeat",
+        "known_customer_revenue_share_pct": 0.3686,
+        "revenue_rank": 25,
+        "cumulative_known_revenue_pct": 23.82
+      }
+    ],
+    "repeat_vs_one_time": [
+      {
+        "customer_type": "Repeat",
+        "customers": 4255,
+        "orders": 35346,
+        "revenue": 16814531.71,
+        "quantity": 10096145,
+        "customer_share_pct": 72.39,
+        "known_customer_revenue_share_pct": 96.78,
+        "aov": 475.71
+      },
+      {
+        "customer_type": "One-time",
+        "customers": 1623,
+        "orders": 1623,
+        "revenue": 560272.56,
+        "quantity": 417807,
+        "customer_share_pct": 27.61,
+        "known_customer_revenue_share_pct": 3.22,
+        "aov": 345.21
+      }
+    ],
+    "purchase_frequency_distribution": [
+      {
+        "frequency_band": "1 order",
+        "customers": 1623,
+        "customer_share_pct": 27.61,
+        "min_orders": 1,
+        "max_orders": 1
+      },
+      {
+        "frequency_band": "2-3 orders",
+        "customers": 1608,
+        "customer_share_pct": 27.36,
+        "min_orders": 2,
+        "max_orders": 3
+      },
+      {
+        "frequency_band": "4-6 orders",
+        "customers": 1126,
+        "customer_share_pct": 19.16,
+        "min_orders": 4,
+        "max_orders": 6
+      },
+      {
+        "frequency_band": "7-12 orders",
+        "customers": 872,
+        "customer_share_pct": 14.83,
+        "min_orders": 7,
+        "max_orders": 12
+      },
+      {
+        "frequency_band": "13+ orders",
+        "customers": 649,
+        "customer_share_pct": 11.04,
+        "min_orders": 13,
+        "max_orders": 398
+      }
+    ],
+    "top_customer_concentration": [
+      {
+        "cohort": "Top 10 customers",
+        "customers": 10,
+        "revenue": 2787079.44,
+        "known_customer_revenue_share_pct": 16.04
+      },
+      {
+        "cohort": "Top 20% of customers",
+        "customers": 1175,
+        "revenue": 13418862.79,
+        "known_customer_revenue_share_pct": 77.23
+      }
+    ]
+  }
+}

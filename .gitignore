@@ -1,0 +1,11 @@
+data/raw/
+data/*.xlsx
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/.*sqlite*
+*.inspect.ndjson
+workbook_inspection.txt
+formula_inspection.txt
+__pycache__/
+*.pyc
