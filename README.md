@@ -32,8 +32,6 @@ Open `Customer_Purchase_Behavior_Sales_Dashboard.xlsx` in Microsoft Excel. The y
 
 The workbook also includes filterable analysis tables, a resume-metrics validation sheet, cleaning methodology, and source-derived data cubes.
 
-![Dashboard preview](dashboard_preview.png)
-
 ## Methodology
 
 The source grain is one invoice line. Revenue is calculated as:
@@ -91,7 +89,6 @@ Customer_Purchase_Behavior_Sales_Analytics/
 │   └── METRICS_VALIDATION.md
 ├── scripts/
 │   ├── build_project_data.py
-│   └── build_dashboard.mjs
 └── sql/
     ├── 01_schema_cleaning.sql
     ├── 02_kpi_sales_analysis.sql
